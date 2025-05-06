@@ -1,6 +1,7 @@
 # pythonweek7.ipynb-
 
-Iris Data Analysis Project
+**Iris Data Analysis Project**
+
 Overview
 This project demonstrates data analysis and visualization using Python's Pandas and Matplotlib libraries. The analysis is performed on the Iris dataset, a classic dataset containing measurements of iris flowers across three species. The project includes a Jupyter notebook that loads the data, explores it, performs basic analysis, and creates visualizations to illustrate findings.
 Requirements
